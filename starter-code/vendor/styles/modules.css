@@ -1,0 +1,20 @@
+h1{
+    color: red;
+    
+}
+li{
+    color: blue;
+}
+p{
+    color: green;
+}
+
+.heading-group-h1{
+    color: red;
+}
+
+.article-body:after{
+    content: "";
+    display: table;
+    clear: both;
+  }
